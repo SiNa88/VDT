@@ -1,6 +1,6 @@
 # Twin the Drive: An HGBR-based Machine Learning Model as a Vehicular Digital Twin for Risk Detection
 
-This is the code repository for an under-review paper.
+This is the code repository for a proof-of-concept Vehicular Digital Twin (VDT) that uses a simple, interpretable ML model for risk detection and enhance safety in automated driving.
 
 ## Contact info
 
@@ -13,11 +13,8 @@ This work received support from the Excellence in Digital Sciences and Interdisc
 ## Project status
 work in progress
 
-
 ### Notes
 Please consider copyright and citation :)
-
-#### Reference
 
 ```BibTex
 @inproceedings{demir2025student,
