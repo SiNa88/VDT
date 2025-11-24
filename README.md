@@ -16,3 +16,15 @@ work in progress
 
 ### Notes
 Please consider copyright and citation :)
+
+#### Reference
+
+```BibTex
+@inproceedings{demir2025student,
+  title={Student Research Track: Twin the Drive: An HGBR-based Machine Learning Model as a Vehicular Digital Twin for Risk Detection},
+  author={Demir, Cansu and Mehran, Narges and Meschtscherjakov, Alexander},
+  booktitle={Adjunct Proceedings of the 17th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},
+  pages={373--376},
+  year={2025}
+}
+```
